@@ -1,0 +1,128 @@
+﻿<Window x:Class="AutoCarePro.about"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AutoCarePro"
+        mc:Ignorable="d"
+        Title="about" Height="450" Width="800">
+
+
+    <Grid Background="White">
+        <Image Source="C:\Users\User\Desktop\Autocare pro\AutoCarePro\AutoCarePro\istockphoto-495378164-612x612.jpg" Stretch="Fill" Grid.Row="0" Grid.RowSpan="2"  />
+
+        <!-- Header -->
+        <TextBlock Text="About AutoCare Pro" 
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Top" 
+                   FontSize="24" 
+                   FontWeight="Bold" 
+                   Foreground="white" 
+                   Margin="0,10,0,0"/>
+
+        <!-- Content Area -->
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top" Margin="20,60,20,20" Width="760">
+            <!-- Vision and Mission Boxes -->
+            <UniformGrid Rows="1" Columns="2" Margin="0,0,0,20">
+                <!-- Vision Box -->
+                <Border Background="Red" CornerRadius="8" Padding="10" Margin="10">
+                    <StackPanel>
+                        <TextBlock Text="OUR VISION" FontSize="16" FontWeight="Bold" Foreground="White" TextAlignment="Center" />
+                        <TextBlock Text="To be a leading multi-brand automotive service center in the region with a focus on high customer satisfaction through the latest technology."
+                                   TextWrapping="Wrap" Foreground="White" Margin="5,10,5,0"/>
+                    </StackPanel>
+                </Border>
+                <!-- Mission Box -->
+                <Border Background="Red" CornerRadius="8" Padding="10" Margin="10">
+                    <StackPanel>
+                        <TextBlock Text="OUR MISSION" FontSize="16" FontWeight="Bold" Foreground="White" TextAlignment="Center" />
+                        <TextBlock Text="Our mission is to enrich the customer experience through our people, products, and services with best practices and the latest technology."
+                                   TextWrapping="Wrap" Foreground="White" Margin="5,10,5,0"/>
+                    </StackPanel>
+                </Border>
+            </UniformGrid>
+
+            <!-- Statistics Section -->
+            <UniformGrid Rows="1" Columns="3" Margin="0,0,0,0">
+                <!-- Service Points -->
+                <Border Background="DarkBlue" CornerRadius="8" Padding="10" Margin="10">
+                    <TextBlock Text="50+ Service Points" FontSize="16" FontWeight="Bold" Foreground="White" TextAlignment="Center"/>
+                </Border>
+                <!-- Engineers and Workers -->
+                <Border Background="DarkBlue" CornerRadius="8" Padding="10" Margin="10">
+                    <TextBlock Text="30+ Engineers and Workers" FontSize="16" FontWeight="Bold" Foreground="White" TextAlignment="Center"/>
+                </Border>
+              
+                <Border Background="DarkBlue" CornerRadius="8" Padding="10" Margin="10">
+                    <TextBlock Text="500+ Completed Projects" FontSize="16" FontWeight="Bold" Foreground="White" TextAlignment="Center"/>
+                </Border>
+            </UniformGrid>
+        </StackPanel>
+
+
+       
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,246,0,0" Width="760">
+            <TextBlock Text="CLIENT REVIEWS" 
+                   FontSize="20" 
+                   FontWeight="Bold" 
+                   Foreground="GhostWhite" 
+                   Margin="0,10,0,10" 
+                   HorizontalAlignment="Center" RenderTransformOrigin="0.5,0.5" Height="25">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleX="0"/>
+                        <RotateTransform/>
+                        <TranslateTransform X="0"/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+
+            <UniformGrid Rows="1" Columns="3" HorizontalAlignment="Center" Margin="0,0,0,20" Height="113">
+
+                <Border Background="LightGray" CornerRadius="8" Padding="10" Margin="10">
+                    <StackPanel>
+                        <TextBlock Text="Shukri Azeez (BMW)" FontSize="14" FontWeight="Bold" Foreground="Black" Margin="0,0,0,5"/>
+                        <TextBlock Text="Great service, very punctual. Highly recommended!" 
+                               TextWrapping="Wrap" Foreground="Black" FontSize="12"/>
+                        <TextBlock Text="★★★★★" FontSize="12" FontWeight="Bold" Foreground="Green"/>
+                    </StackPanel>
+                </Border>
+
+                
+                <Border Background="LightGray" CornerRadius="8" Padding="10" Margin="10">
+                    <StackPanel>
+                        <TextBlock Text="Prince Suresh Jayasooriya (Suzuki)" FontSize="14" FontWeight="Bold" Foreground="Black" Margin="0,0,0,5"/>
+                        <TextBlock Text="Helped me find a great mechanic anywhere. Reliable." 
+                               TextWrapping="Wrap" Foreground="Black" FontSize="12"/>
+                        <TextBlock Text="★★★★★" FontSize="12" FontWeight="Bold" Foreground="Green"/>
+                    </StackPanel>
+                </Border>
+
+              
+                <Border Background="LightGray" CornerRadius="8" Padding="10" Margin="10">
+                    <StackPanel>
+                        <TextBlock Text="K. Janagan (Toyota Aqua)" FontSize="14" FontWeight="Bold" Foreground="Black" Margin="0,0,0,5"/>
+                        <TextBlock Text="Good service, recommended for tuneups." 
+                               TextWrapping="Wrap" Foreground="Black" FontSize="12"/>
+                        <TextBlock Text="★★★★☆" FontSize="12" FontWeight="Bold" Foreground="Green"/>
+                    </StackPanel>
+                </Border>
+            </UniformGrid>
+        </StackPanel>
+
+
+        <!-- Back Button -->
+        <Button Content="Back to Home" 
+                Background="Black" 
+                Foreground="White" 
+                Width="120" 
+                Height="30" 
+                HorizontalAlignment="Center" 
+                VerticalAlignment="Bottom" 
+                Margin="0,20,0,0" 
+                FontWeight="Bold"
+                BorderThickness="0"
+                 Click="BackButton_Click"/>
+    </Grid>
+</Window>

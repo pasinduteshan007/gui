@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\avilabletimeslotes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\avilabletimeslotes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\migrations\\20250308120421_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\migrations\\20250308120421_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\dialogbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\dialogbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\about.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\about.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\avilabletimeslotes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\avilabletimeslotes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\signuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\logingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\logingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\dialogbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\dialogbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\logingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\logingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\about.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\about.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|c:\\users\\user\\desktop\\autocare pro\\autocarepro\\autocarepro\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F1CFD0D-1458-4373-806F-E5C5D6F3A169}|AutoCarePro\\AutoCarePro.csproj|solutionrelative:autocarepro\\signuppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 158,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogBox.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\DialogBox.xaml.cs",
+              "RelativeDocumentMoniker": "AutoCarePro\\DialogBox.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\DialogBox.xaml.cs",
+              "RelativeToolTip": "AutoCarePro\\DialogBox.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:52:49.719Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250308120421_init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\Migrations\\20250308120421_init.cs",
+              "RelativeDocumentMoniker": "AutoCarePro\\Migrations\\20250308120421_init.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\Migrations\\20250308120421_init.cs",
+              "RelativeToolTip": "AutoCarePro\\Migrations\\20250308120421_init.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:04:22.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "about.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\about.xaml.cs",
+              "RelativeDocumentMoniker": "AutoCarePro\\about.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\about.xaml.cs",
+              "RelativeToolTip": "AutoCarePro\\about.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:49:40.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "about.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\about.xaml",
+              "RelativeDocumentMoniker": "AutoCarePro\\about.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\about.xaml",
+              "RelativeToolTip": "AutoCarePro\\about.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T11:48:45.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "signuppage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\signuppage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoCarePro\\signuppage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\signuppage.xaml.cs",
+              "RelativeToolTip": "AutoCarePro\\signuppage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:47:50.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "signuppage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\signuppage.xaml",
+              "RelativeDocumentMoniker": "AutoCarePro\\signuppage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\signuppage.xaml",
+              "RelativeToolTip": "AutoCarePro\\signuppage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T11:47:31.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AutoCarePro\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AutoCarePro\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:41:00.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "logingpage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\logingpage.xaml.cs",
+              "RelativeDocumentMoniker": "AutoCarePro\\logingpage.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\logingpage.xaml.cs",
+              "RelativeToolTip": "AutoCarePro\\logingpage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:39:39.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "logingpage.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\logingpage.xaml",
+              "RelativeDocumentMoniker": "AutoCarePro\\logingpage.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\logingpage.xaml",
+              "RelativeToolTip": "AutoCarePro\\logingpage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T11:39:35.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AutoCarePro\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\MainWindow.xaml",
+              "RelativeToolTip": "AutoCarePro\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T11:33:30.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AvilabletimeSlotes.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\AvilabletimeSlotes.xaml",
+              "RelativeDocumentMoniker": "AutoCarePro\\AvilabletimeSlotes.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\AvilabletimeSlotes.xaml",
+              "RelativeToolTip": "AutoCarePro\\AvilabletimeSlotes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T11:30:52.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DialogBox.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\DialogBox.xaml",
+              "RelativeDocumentMoniker": "AutoCarePro\\DialogBox.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\DialogBox.xaml",
+              "RelativeToolTip": "AutoCarePro\\DialogBox.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-08T05:47:52.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\Product.cs",
+              "RelativeDocumentMoniker": "AutoCarePro\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\Product.cs",
+              "RelativeToolTip": "AutoCarePro\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:30:03.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "AutoCarePro\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\ProductDbContext.cs",
+              "RelativeToolTip": "AutoCarePro\\ProductDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:14:18.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\Product.cs",
+              "RelativeToolTip": "..\\..\\WpdfAppDb\\WpdfAppDb\\WpdfAppDb\\Product.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T05:07:18.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvilabletimeSlotes.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\AvilabletimeSlotes.xaml.cs",
+              "RelativeDocumentMoniker": "AutoCarePro\\AvilabletimeSlotes.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autocare pro\\AutoCarePro\\AutoCarePro\\AvilabletimeSlotes.xaml.cs",
+              "RelativeToolTip": "AutoCarePro\\AvilabletimeSlotes.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T09:21:39.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
