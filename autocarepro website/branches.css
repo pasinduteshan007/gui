@@ -1,0 +1,156 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+
+header {
+    background-color: #e71401;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    background-image: url('1.jpg');
+    background-size: cover;
+    background-position: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+header .logo-container h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header .contact-info p {
+    margin: 5px 0;
+}
+
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar ul li {
+    margin: 0 10px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.navbar ul li a:hover {
+    text-decoration: underline;
+    color: #f4f4f9;
+}
+
+.appointment-btn {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.appointment-btn:hover {
+    background-color: #005a9e;
+    transform: scale(1.05);
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+main {
+    padding: 20px;
+    justify-content: center;
+}
+
+
+.cleaning-section, .garage-section {
+    padding: 100px;
+    border-radius: 8px;
+}
+
+.cleaning-section {
+    background-image: url('Car-wash-al-quoz-best.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.garage-section {
+    background-image: url('teaserbox_25275532.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+
+.container {
+    background-color: rgba(249, 249, 249, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    max-width: 1400px;
+    width: 100%;
+}
+
+.main-title {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.plans-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.plan-column {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: left;
+    width: 300px;
+    box-sizing: border-box;
+}
+
+.plan-column h2 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.price {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,179 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+    align-items: center;
+}
+header {
+    background-color: #e71401;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    background-image: url('1.jpg');
+    background-size: cover;
+    background-position: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+header .logo-container h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header .contact-info p {
+    margin: 5px 0;
+}
+
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+.navbar ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar ul li {
+    margin: 0 10px;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.navbar ul li a:hover {
+    text-decoration: underline;
+    color: #f4f4f9;
+}
+
+.appointment-btn {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.appointment-btn:hover {
+    background-color: #005a9e;
+    transform: scale(1.05);
+}
+
+
+.services {
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.service-box {
+    background-color: #ffffff;
+    border: 2px solid #ccc;
+    border-radius: 12px;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    text-align: center;
+    width: calc(45% - 20px); 
+}
+
+.service-box h3 {
+    font-size: 2rem; 
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+.service-box p {
+    font-size: 1.2rem; 
+    color: #333;
+    line-height: 1.6;
+}
+
+
+.premium-services {
+    padding: 50px; 
+    background-color: #e0e0e0;
+    border-radius: 12px;
+    margin: 20px auto;
+    max-width: 95%; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.services-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px; 
+}
+
+.service {
+    width: calc(45% - 30px); 
+    padding: 40px;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    background-color: #ffffff;
+    text-align: center;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.service-icon {
+    font-size: 4rem; 
+    margin-bottom: 20px;
+    color: #0078d4;
+}
+
+.service-title {
+    font-size: 2rem; 
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.service-description {
+    font-size: 1.2rem; 
+    color: #555;
+    line-height: 1.8;
+}
+
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+.statistics {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.stat {
+    background-color: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    text-align: center;
+}
